@@ -1,0 +1,14 @@
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\bin\Debug\net8.0\Izpitvane27.03.24.exe
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\bin\Debug\net8.0\Izpitvane27.03.24.deps.json
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\bin\Debug\net8.0\Izpitvane27.03.24.runtimeconfig.json
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\bin\Debug\net8.0\Izpitvane27.03.24.dll
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\bin\Debug\net8.0\Izpitvane27.03.24.pdb
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\obj\Debug\net8.0\Izpitvane27.03.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\obj\Debug\net8.0\Izpitvane27.03.24.AssemblyInfoInputs.cache
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\obj\Debug\net8.0\Izpitvane27.03.24.AssemblyInfo.cs
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\obj\Debug\net8.0\Izpitvane27.03.24.csproj.CoreCompileInputs.cache
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\obj\Debug\net8.0\Izpitvane27.03.24.dll
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\obj\Debug\net8.0\refint\Izpitvane27.03.24.dll
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\obj\Debug\net8.0\Izpitvane27.03.24.pdb
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\obj\Debug\net8.0\Izpitvane27.03.24.genruntimeconfig.cache
+C:\Stanislav9a\Izpitvane27.03.24\Izpitvane27.03.24\obj\Debug\net8.0\ref\Izpitvane27.03.24.dll
